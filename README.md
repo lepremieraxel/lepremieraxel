@@ -2,7 +2,7 @@
 
 ## 😁 About Me 
 
-I'm **Axel**, I'm 18 and I come from France. :fr:
+I'm **Axel**, I'm 19 and I come from France. :fr:
 
 I discovered computer science and development a few years ago now and since then I'm passionate about it. 🖥️
 
