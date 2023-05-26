@@ -10,13 +10,13 @@ I'm more interested in web development but I'm a bit interested in everything. I
 
 ## 🧠 Skills & Knowledge
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /><p>&ensp</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30" /><p>&ensp</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30" /><br><p>&ensp</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /><p>&ensp</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="30" height="30" /><p>&ensp</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /><p>&ensp</p>
+<div style="display:flex;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" /><p>&ensp;</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30" /><p>&ensp;</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30" /><br><p>&ensp;</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /><p>&ensp;</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="30" height="30" /><p>&ensp;</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /><p>&ensp;</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30" />
 </div>
 
