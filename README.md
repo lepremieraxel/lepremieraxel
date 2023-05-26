@@ -10,7 +10,7 @@ I'm more interested in web development but I'm a bit interested in everything. I
 
 ## 🧠 Skills & Knowledge
 
-<div style="display:flex; gap:10px;">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30" />
