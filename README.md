@@ -1,4 +1,4 @@
-# 🌍 WELCOME TO MY UNIVERSE ![Profile View Counter](https://komarev.com/ghpvc/?username=lepremieraxel)
+# 🌍 WELCOME TO MY UNIVERSE !
 
 ## 😁 About Me 
 
