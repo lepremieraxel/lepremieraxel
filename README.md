@@ -26,8 +26,6 @@ I'm more interested in web development but I'm a bit interested in everything. I
 
 # 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lepremieraxel&hide=hack&hide_border=true&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📞 Contact Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lepremieraxel/)
