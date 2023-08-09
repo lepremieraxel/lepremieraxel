@@ -2,12 +2,10 @@
 
 ## 😁 About Me 
 
-I'm **Axel**, I'm 19 and I come from France. :fr:
-
-I discovered computer science and development a few years ago now and since then I'm passionate about it. 🖥️
-
-I'm more interested in web development but I'm a bit interested in everything. I've been learning web development since I was in high-school and I'm now doing a [BUT MMI](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/but-metiers-du-multimedia-et-de-l-internet) in France. 🎓
-
+Hi, my name is **Axel**, I'm **19** and I come from France 🥖.
+I'm currently studying for a bachelor's degree in "multimedia and internet professions".
+I'm a **web developer**, more **front-end** oriented, with an attraction for **web design**, **layout** and **graphics**. I've been working with __html__ and __css__ for over **6 years** now, first out of curiosity, then I developed a passion for web development, and I'm now developing my __js__ skills.
+The next step in my apprenticeship will be to learn how to use a __js framework__.
 ## 🧠 Skills & Knowledge
 
 <div>
